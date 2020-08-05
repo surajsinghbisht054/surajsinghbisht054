@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Suraj
+
 
 <!--
 **surajsinghbisht054/surajsinghbisht054** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You want to read about me? [click here](https://surajsinghbisht054.github.io/about/)
+
+
+I'ill update this page soon!
