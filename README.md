@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Suraj
+### Hi there 👋 I'm Suraj.
 
 
 <!--
@@ -11,12 +11,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 
-You want to read about me? [click here](https://surajsinghbisht054.github.io/about/)
 
+- 📫 How to reach me: Email, Fastest Way to Reach me
+- 🌱 I’m currently learning new topics.
+- 😄 Want to read about me? [click here](https://surajsinghbisht054.github.io/about/)
 
-I'ill update this page soon!
