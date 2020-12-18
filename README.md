@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: Email, Fastest Way to Reach me
 - 🌱 I’m currently learning new topics.
-- 😄 Want to read about me? [click here](https://surajsinghbisht054.github.io/about/)
 
